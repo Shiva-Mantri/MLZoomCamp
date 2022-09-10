@@ -1,9 +1,18 @@
-# MLZoomCamp
-Online Self-Paced ML Zoom Camps by DataTalks.Club.
+# ML ZOOMCAMP
+- Self-Paced ML ZoomCamp by Alex Grigorev of DataTalks.Club - https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp
+- Youtube playlist - https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
+
+### Set up & Daily
+
+#### Local Env
+- Open GitBash, navigate to - `cd ~shiva/MLZoomCamp`
+- (One Time) Set up venv - `~shiva/anaconda3/python -m venv ./venv_mlzc`
+- Activate venv - `source ./venv_mlzc/Scripts/activate`
 
 
 ### Week 1 - Introduction to ML
-Come up with a model to make a prediction - g(X) ~ y
+- https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/01-intro 
+- Come up with a model to make a prediction - g(X) ~ y
 
 #### Supervised Learning - Showing model different items and teach expected result (target variable) for each of the item
 - Regression - If the prediction output is a number, e.g. cost of car, house etc
