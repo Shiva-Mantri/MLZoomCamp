@@ -46,3 +46,12 @@ This weeek we do Car Price prediction project
 ### EDA - Exploratory Data Analysis
 Refer to steps in my general notes - [AI Notes](https://github.com/Shiva-Mantri/AI_Notes)
 
+### TO DO
+- [ ] Restart Week 2 and complete
+
+## Week 3 - Classification
+
+
+
+
+
